@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L412KxTx
+D Arm Cortex-M4F MCU, LQFP-32
+F https://www.st.com/resource/en/datasheet/dm00481909.pdf
+$ENDCMP
+#
+#End Doc Library
