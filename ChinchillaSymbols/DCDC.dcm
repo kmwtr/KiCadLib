@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC3119_Module
+D LTC3119 DCDC Module, Out: 0.8V to 17V, Input: 2.5V to 18V, Strawberry Linux
+$ENDCMP
+#
+$CMP POLOLU-2836
+D Input: 2V to 16V, Output: 5V, Pololu
+$ENDCMP
+#
+$CMP TPS63070_Module
+D TPS63070 DCDC Module, Out: 2.5V to 9V, Input: 2V to 16V, Strawberry Linux
+$ENDCMP
+#
+#End Doc Library
