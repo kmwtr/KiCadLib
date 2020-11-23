@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7365-33YG-13
+D Regulator, 3V3, 600mA, SOT-89-3, Diodes Incorporated
+$ENDCMP
+#
+$CMP NCP5007
+D LED Driver IC, SOT-23-5, ON Semiconductor
+$ENDCMP
+#
+$CMP NJM2845
+D Regulator, 3V3, 800mA, TO-252-3, NJR
+$ENDCMP
+#
+$CMP UT7500G-18-AB3-B-R
+D Regulator, 1V8, 100mA, SOT-89, Unisonic Technologies
+$ENDCMP
+#
+#End Doc Library
