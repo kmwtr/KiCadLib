@@ -15,4 +15,39 @@ D test point, 3 pad
 K test point tp
 $ENDCMP
 #
+$CMP TestPoint_04
+D test point, 4 pad
+K test point tp
+$ENDCMP
+#
+$CMP TestPoint_05
+D test point, 5 pad
+K test point tp
+$ENDCMP
+#
+$CMP TestPoint_06
+D test point, 6 pad
+K test point tp
+$ENDCMP
+#
+$CMP TestPoint_07
+D test point, 7 pad
+K test point tp
+$ENDCMP
+#
+$CMP TestPoint_08
+D test point, 8 pad
+K test point tp
+$ENDCMP
+#
+$CMP TestPoint_09
+D test point, 9 pad
+K test point tp
+$ENDCMP
+#
+$CMP TestPoint_10
+D test point, 10 pad
+K test point tp
+$ENDCMP
+#
 #End Doc Library
