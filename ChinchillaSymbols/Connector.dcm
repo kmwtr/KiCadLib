@@ -5,4 +5,14 @@ D test point, 1 pad
 K test point tp
 $ENDCMP
 #
+$CMP TestPoint_02
+D test point, 2 pad
+K test point tp
+$ENDCMP
+#
+$CMP TestPoint_03
+D test point, 3 pad
+K test point tp
+$ENDCMP
+#
 #End Doc Library
