@@ -6,6 +6,7 @@ $ENDCMP
 #
 $CMP POLOLU-2836
 D Input: 2V to 16V, Output: 5V, Pololu
+F https://www.pololu.com/product/2836
 $ENDCMP
 #
 $CMP TPS63070_Module
