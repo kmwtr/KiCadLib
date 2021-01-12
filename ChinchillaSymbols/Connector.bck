@@ -65,38 +65,8 @@ D test point, 13 pad
 K test point tp
 $ENDCMP
 #
-$CMP TestPoint_14
-D test point, 14 pad
-K test point tp
-$ENDCMP
-#
-$CMP TestPoint_15
-D test point, 15 pad
-K test point tp
-$ENDCMP
-#
-$CMP TestPoint_16
-D test point, 16 pad
-K test point tp
-$ENDCMP
-#
-$CMP TestPoint_17
-D test point, 17 pad
-K test point tp
-$ENDCMP
-#
-$CMP TestPoint_18
-D test point, 18 pad
-K test point tp
-$ENDCMP
-#
-$CMP TestPoint_19
-D test point, 19 pad
-K test point tp
-$ENDCMP
-#
 $CMP TestPoint_20
-D test point, 20 pad
+D test point, 13 pad
 K test point tp
 $ENDCMP
 #
