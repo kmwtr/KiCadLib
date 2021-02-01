@@ -1,0 +1,11 @@
+(module SilkGraphic_True_R3mm (layer F.Cu) (tedit 601827C7)
+  (attr smd)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.13)))
+  )
+  (fp_text value SilkGraphic_True_R3mm (at 0 0) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.1)))
+  )
+  (fp_circle (center 0 0) (end 1.5 0) (layer F.SilkS) (width 0.3))
+  (fp_circle (center 0 0) (end 0.4 0) (layer F.SilkS) (width 0.8))
+)
