@@ -1,7 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FT230XS
+D USB to UART, SSOP-16
+$ENDCMP
+#
 $CMP IF_USB_FE1.1S
-D USB HUB
+D JFD-IC, USB 2.0 4Port Hub Controller, FE1.1S
 $ENDCMP
 #
 #End Doc Library
