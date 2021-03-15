@@ -1,5 +1,5 @@
 # KiCadLib
-my Kicad library
+Kicad library designed for ChinchillaSystems
 
 ## Memo
 
