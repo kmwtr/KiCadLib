@@ -1,4 +1,4 @@
-(module SolderJumper-2_Bridged_1.0x1.4mm (layer F.Cu) (tedit 5FBB717C)
+(module SolderJumper-2_Bridged_1.0x1.4mm (layer F.Cu) (tedit 60DDBA36)
   (descr "Solder Jumper, Bridged, 1x1.4mm, 0.3mm gap")
   (attr virtual)
   (fp_text reference REF** (at 0 -1.75) (layer F.SilkS)
