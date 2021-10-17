@@ -1,0 +1,8 @@
+(module MetalMaskPushpin (layer F.Cu) (tedit 616835D6)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.13)))
+  )
+  (fp_text value MetalMaskPushpin (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.1)))
+  )
+)
