@@ -61,6 +61,27 @@ X ~ SH 0 -250 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# SW_Tactile_2pin+SH_small
+#
+DEF SW_Tactile_2pin+SH_small SW 0 40 Y Y 1 F N
+F0 "SW" 0 200 50 H V C CNN
+F1 "SW_Tactile_2pin+SH_small" 0 300 50 H V C CNN
+F2 "" 0 100 50 H I C CNN
+F3 "" 0 100 50 H I C CNN
+DRAW
+C -50 0 20 1 1 0 N
+C 50 0 20 1 1 0 N
+S 0 50 0 100 0 1 0 N
+S 50 50 -50 50 0 1 0 N
+S 100 -100 -100 100 0 1 0 f
+P 2 0 1 0 -50 0 -100 0 N
+P 2 0 1 0 50 0 100 0 N
+X ~ 1 -200 0 100 R 50 50 1 1 P
+X ~ 2 200 0 100 L 50 50 1 1 P
+X ~ SH 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # SW_Tactile_4pin
 #
 DEF SW_Tactile_4pin SW 0 40 Y Y 1 F N
@@ -104,6 +125,28 @@ X ~ 1 0 250 100 D 50 50 1 1 P
 X ~ 2 0 250 100 D 50 50 1 1 P N
 X ~ 3 0 -250 100 U 50 50 1 1 P
 X ~ 4 0 -250 100 U 50 50 1 1 P N
+ENDDRAW
+ENDDEF
+#
+# SW_Tactile_4pin_SimpleSmall
+#
+DEF SW_Tactile_4pin_SimpleSmall U 0 40 Y Y 1 F N
+F0 "U" 150 -50 50 H V L CNN
+F1 "SW_Tactile_4pin_SimpleSmall" 150 50 50 H V L CNN
+F2 "" -100 150 50 H I C CNN
+F3 "" -100 150 50 H I C CNN
+DRAW
+C 0 -50 20 1 1 0 N
+C 0 50 20 1 1 0 N
+S 100 100 -100 -100 0 1 0 f
+S -50 0 -100 0 1 1 0 N
+S -50 50 -50 -50 1 1 0 N
+P 2 0 1 0 0 50 0 100 N
+P 2 1 1 0 0 -100 0 -50 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 200 100 D 50 50 1 1 P N
+X ~ 3 0 -200 100 U 50 50 1 1 P
+X ~ 4 0 -200 100 U 50 50 1 1 P N
 ENDDRAW
 ENDDEF
 #
