@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
   (symbol "CX70M-24P1_USB2.0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "J" (id 0) (at -6.35 6.35 0)
+    (property "Reference" "USB" (id 0) (at -6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "CX70M-24P1_USB2.0" (id 1) (at 0 3.81 0)
